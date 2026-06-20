@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BotDeAntiApagar",
     "password": "123",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "servidorcep.aternos.me",
