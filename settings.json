@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "BotDeAntiApagar",
-    "password": "",
+    "password": "123",
     "type": "offline"
   },
   "server": {
-    "ip": servidorcep.aternos.me:36927,
+    "ip": "servidorcep.aternos.me",
     "port": 36927,
     "version": "1.21.1",
     "try-creative": false
