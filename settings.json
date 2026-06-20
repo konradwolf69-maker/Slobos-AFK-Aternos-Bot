@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": servidorcep.aternos.me,
+    "ip": servidorcep.aternos.me:36927,
     "port": 36927,
     "version": "1.21.1",
     "try-creative": false
