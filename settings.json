@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "servidorcep.aternos.me",
-    "port": 36927,
+    "ip": "fentix.aternos.me",
+    "port": 63655,
     "version": "1.21.1",
     "try-creative": false
   },
